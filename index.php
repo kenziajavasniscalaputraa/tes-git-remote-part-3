@@ -9,5 +9,10 @@
     <h1>Hello, World!</h1>
     <p>This is a simple PHP file to test Git remote repository functionality.</p>
     <p>It's a basic HTML document with some content.</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
 </body>
 </html>
